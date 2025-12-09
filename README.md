@@ -5,17 +5,17 @@
 > **Support Development**: [Get Vulti on Itch.io](https://yourname.itch.io/vulti)
 > *Lifetime License: $12 (Pay what you want, min $7)*
 
-## 🚀 Features
+## Features
 
-- **🧠 Command Memory**: Tag and save complex one-liners (e.g., `vulti add obs --cmd '...'`).
-- **🐧 Distro Agnostic**: Automatically detects **Arch**, **Debian/Ubuntu**, and **Fedora** to save/restore packages using the correct manager (`pacman`, `apt`, `dnf`).
-- **📦 System Snapshot**: Captures your entire package list and Flatpaks in one go.
-- **⚙️ Config Backup**: Safely backs up your `~/.config` directory (smartly handling symlinks and special files).
-- **🛡️ Backup & Restore**: Create portable zip archives of your entire setup. Restore everything with a single command.
-- **👀 View & Edit**: Built-in file viewer to inspect your backups or edit saved commands (`nano`, `nvim`, `code`).
-- **⚡ Power Run**: Run saved commands instantly, with optional `sudo` or background execution.
+- ** Command Memory**: Tag and save complex one-liners (e.g., `vulti add obs --cmd '...'`).
+- ** Distro Agnostic**: Automatically detects **Arch**, **Debian/Ubuntu**, and **Fedora** to save/restore packages using the correct manager (`pacman`, `apt`, `dnf`).
+- ** System Snapshot**: Captures your entire package list and Flatpaks in one go.
+- ** Config Backup**: Safely backs up your `~/.config` directory (smartly handling symlinks and special files).
+- ** Backup & Restore**: Create portable zip archives of your entire setup. Restore everything with a single command.
+- ** View & Edit**: Built-in file viewer to inspect your backups or edit saved commands (`nano`, `nvim`, `code`).
+- ** Power Run**: Run saved commands instantly, with optional `sudo` or background execution.
 
-## 📥 Installation
+## Installation
 
 ### One-Liner (Recommended)
 ```bash
@@ -34,7 +34,7 @@ curl -s https://raw.githubusercontent.com/brilliantmakanju/vulti/main/install.sh
    ./install.sh
    ```
 
-## 📖 Usage
+## Usage
 
 ### Basics
 - **Add a command**:
@@ -80,7 +80,7 @@ curl -s https://raw.githubusercontent.com/brilliantmakanju/vulti/main/install.sh
   vulti reset
   ```
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome! Vulti is open source and community-driven.
 
 ## 📄 License
