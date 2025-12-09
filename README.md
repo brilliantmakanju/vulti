@@ -2,10 +2,10 @@
 
 **Vulti** is your local "second brain" for the terminal. It automates the process of remembering complex installation commands, package lists, and system configurations, making OS reinstalls and distro-hopping painless.
 
-**Free to use forever · MIT licensed · no accounts · pure bash**
+**100% free · MIT licensed · no accounts · pure bash**
 
-→ If it ever saves you an hour of pain and you feel like it:
-[Buy me a coffee (lifetime license – $7)](https://jolexdev.itch.io/vulti) – completely optional
+→ If Vulti ever saves you an hour of pain:
+[Buy me a coffee ($7)](https://brilliantmakanju.itch.io/vulti) – totally optional, just a thank you
 
 ## Features
 
