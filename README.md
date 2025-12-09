@@ -5,7 +5,7 @@
 **100% free · MIT licensed · no accounts · pure bash**
 
 → If Vulti ever saves you an hour of pain:
-[Buy me a coffee ($7)](https://brilliantmakanju.itch.io/vulti) – totally optional, just a thank you
+[Buy me a coffee ($7)](https://checkout.dodopayments.com/buy/pdt_1HIj8bpfLLBltKn0Qqg5f?quantity=1) – totally optional, just a thank you
 
 ## Features
 
